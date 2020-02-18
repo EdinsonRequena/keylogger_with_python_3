@@ -1,15 +1,16 @@
-If you want to create a keylogger with python 3, this is your place. Forget about pyhook, it's an abandoned project.
+# Fireworks 🚀
 
-Requirements:        
-Python3.7        
-pynput              
-keyboard          
-smtplib.
 
-All libraries can and should be downloaded with pip.
-Feel free to modify, download or copy it. Use it for good <3
 
-requenasoftware@gmail.com         
-Facebook: Edinson Requena                        
-Instagram: EdinsonRequena       
-Twitter: RequenaEA
+### Tutorial 📖
+
+Yo can see the tutorial on Medium [here](https://medium.com/@edinsonrequena/tutorial-keylogger-con-python-3-3b9a58fb7703?source=post_page-----3b9a58fb7703---------------------nav_reg-)
+
+### Author ✒️
+
+* **Edinson Requena** - *Sotftware, tutorial and documentation* 
+- [Youtube](https://www.youtube.com/channel/UCFXAiceHPFzk81Ooc25_QTg/featured)
+- [Medium](https://medium.com/@edinsonrequena)
+- [Instagram](https://instagram.com/edinsonrequena)
+- [Twitter](https://twitter.com/requenaea)
+
